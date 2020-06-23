@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.outer-panel{
+    width: 60%;
+    padding: 0% 7%;
+    background-color: #01090c;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.inner-panel{
+    background-color: #0e0f0f83;
+    box-shadow: 2px 2px 15px #5e6061;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #fff;
+}
+p{
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+hr{
+    border-color: #090e01; 
+}
+h1{
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h2{
+    font-size: 26px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
